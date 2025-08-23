@@ -1,0 +1,25 @@
+{
+  "name": "p-sdxjs",
+  "version": "0.0.1",
+  "description": "Practices - Software Design by Example with JavaScript. Reference: https://github.com/gvwilson/sdxjs",
+  "keywords": [
+    "practices",
+    "software-design",
+    "javascript"
+  ],
+  "homepage": "https://github.com/kahilkubilay/p-sdxjs#readme",
+  "bugs": {
+    "url": "https://github.com/kahilkubilay/p-sdxjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahilkubilay/p-sdxjs.git"
+  },
+  "license": "ISC",
+  "author": "kahilkubilay",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
