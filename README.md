@@ -2,12 +2,14 @@
 
 > Practices - Software Design by Example with JavaScript. Reference: https://github.com/gvwilson/sdxjs
 
+![Cover of Software Design by Example with JavaScript](./public/img/sdxjs-cover.png "Cover of Software Design by Example with JavaScript")
+
 You can find all the examples in the book "Software Design by Example with JavaScript", chapter by chapter in the
 repository. For full details on the code structure, please refer to the book itself (https://third-bit.com/sdxjs/). The
 examples here focus on the general structure and functionality of the code. You can easily access the code in all
 chapters.
 
-### Chapters tree
+### Chapters Tree
 
 ``` 
 📂src/
