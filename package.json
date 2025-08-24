@@ -17,9 +17,12 @@
   },
   "license": "ISC",
   "author": "kahilkubilay",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.1"
   }
 }
